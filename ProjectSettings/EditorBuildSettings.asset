@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Load Screen.unity
+    guid: 05c5b0d1f2c0c4109bbe06405fea61b4
+  - enabled: 1
+    path: Assets/Levels/Introduction.unity
+    guid: 41254450022d74a39851ef1255b2bc98
+  - enabled: 1
+    path: Assets/Levels/Main Level.unity
+    guid: 4e312c4af3a5c46feb0f8581d4143e03
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: 8fa076b1e74fc4136a7bdefeff0dd4ba
+  - enabled: 1
+    path: Assets/Levels/You Win!.unity
+    guid: 49bea3811f5044e04b074c3fdc3d6641
+  - enabled: 1
+    path: Assets/Levels/Game over.unity
+    guid: fc8f3d04f6f9145c2b94d3e755e16fa5
+  - enabled: 1
+    path: Assets/Levels/NotEnoughPoints.unity
+    guid: 2ca84abe998a04607beade7f33c9c28d
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 49248e7a5b3d94049995a4708e8fd96a
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: 434f9d8e93c7b4c5bb00990b0d9f0727
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: c457baab2a9d848789931e2a7143de53
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: a7825a8a817f64e2b847c0bee7b3013d
+  - enabled: 1
+    path: Assets/Levels/Level 7.unity
+    guid: 8e21e6f43dc87423da3cd40b08daf7b9
+  - enabled: 1
+    path: Assets/Levels/Level 8.unity
+    guid: 63c8badfacb2348f2af7f8e57c1cef64
+  - enabled: 1
+    path: Assets/Levels/Level 9.unity
+    guid: 9352ad8f3fefb4ee38dd80cc1cef7d64
+  - enabled: 1
+    path: Assets/Levels/Level 10.unity
+    guid: a54a905ec80a64290a45ade7e96eca54
